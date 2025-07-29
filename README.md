@@ -51,6 +51,14 @@ If you’d like to collaborate or have feedback, feel free to connect:
 📫 [LinkedIn](https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/)
 📧 [fatemehnikookar2020@gmail.com](mailto:fatemehnikookar2020@gmail.com)
 
+---
+
+## 🔗 Featured On LinkedIn
+
+📢 I shared this project on LinkedIn to connect with other developers and recruiters.  
+Check out the post and join the conversation:  
+➡️ [View the post on LinkedIn]([https://www.linkedin.com/posts/your-post-link](https://www.linkedin.com/posts/fatemeh-nikookar-b00a28291_webdevelopment-frontend-javascript-activity-7355994332337790977-alaQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbPJjABP8ODHYVafIuV4pqwFsyHNLCCEPs))
+
 
 
 
