@@ -40,6 +40,8 @@ function createEmployeeRows(data) {
         <tr class="bg-gray-50 hover:bg-blue-200 border-b border-gray-300 transition duration-300" data-index="${employee.id}">
             
 
+
+
 <td class="py-2 px-3 md:px-6 text-left">
     <img
       src="${employee.avatar || `https://i.pravatar.cc/400?u=${employee.id}`}"
