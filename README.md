@@ -12,6 +12,14 @@ A modern, responsive employee management dashboard built with **HTML**, **CSS (T
 
 ---
 
+### 🖼️ Screenshots
+
+![Image](https://github.com/user-attachments/assets/99ee7a2d-1ca9-4883-a90a-6e61990aa862)
+
+![Image](https://github.com/user-attachments/assets/a4a43b08-d85a-4bbb-add6-6636dc852448) 
+
+---
+
 ### ✨ Features
 
 * ✅ Display paginated employee list with responsive design
@@ -32,42 +40,6 @@ A modern, responsive employee management dashboard built with **HTML**, **CSS (T
 * **JavaScript (ES6+)**
 * **MockAPI** (for testing REST endpoints)
 * **GitHub Pages** (for deployment)
-
----
-
-### 📁 Folder Structure
-
-```
-Employee-Dashboard/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-```
-
----
-
-### 🚀 Getting Started Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/nikmahla/Employee-Dashboard.git
-   ```
-
-2. Open the `index.html` file in your browser.
-
-> No build tools needed — it's a pure front-end project!
-
----
-
-### 🖼️ Screenshots
-
-![Image](https://github.com/user-attachments/assets/99ee7a2d-1ca9-4883-a90a-6e61990aa862)
-
-![Image](https://github.com/user-attachments/assets/a4a43b08-d85a-4bbb-add6-6636dc852448) 
-
-
 
 ---
 
