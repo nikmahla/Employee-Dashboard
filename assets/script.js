@@ -43,7 +43,7 @@ function createEmployeeRows(data) {
                 <img src="${employee.avatar || 'https://randomuser.me/api/portraits/women/44.jpg'}"
                      alt="${employee.fullName || 'Employee'}"
                      class="w-10 h-10 rounded-full object-cover"
-                     onerror="this.onerror=null;this.src='https://randomuser.me/api/portraits/women/44.jpg';">
+                  >
             </td>
             <td class="py-2 px-3 md:px-6 text-left">
                 <span class="font-medium">${employee.fullName || 'N/A'}</span>
