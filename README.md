@@ -12,7 +12,7 @@ Developed by Fatemeh Nikookar
 
 Created - 2024-08
 
-Technologies Used - Html , Css, Tailwind, Javascript,Api
+Technologies Used - Html , Css, Tailwind, Javascript,MockApi
 
 Role - Frontend
 
