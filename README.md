@@ -1,6 +1,5 @@
-![gitpanel1](https://github.com/user-attachments/assets/c9c24c22-aa28-497d-aae2-9c98c36c0014)
-![gitpanel2](https://github.com/user-attachments/assets/500f1211-df40-45b4-8302-7a8e815451fc)
-
+![Image](https://github.com/user-attachments/assets/99ee7a2d-1ca9-4883-a90a-6e61990aa862)
+![Image](https://github.com/user-attachments/assets/a4a43b08-d85a-4bbb-add6-6636dc852448)
 
 # Employee-Dashboard
 
