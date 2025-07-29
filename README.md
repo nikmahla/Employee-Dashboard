@@ -6,7 +6,7 @@
 
  [Demo Link](https://nikmahla.github.io/Employee-Dashboard/)
 
-Responsive Employee Dashboard  🔥
+Responsive Employee Dashboard  (CRUD) 🔥
 
 Developed by Fatemeh Nikookar
 
