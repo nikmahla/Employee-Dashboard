@@ -67,7 +67,7 @@ function createEmployeeRows(data) {
                 </div>
             </td>
         </tr>
-        <tr class="bg-gray-50 border-2  border-l-gray-100  hidden  aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000"
+        <tr class="bg-gray-50 border-2 border-l-gray-100 hidden  aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000"
         id="info-row-${index}">
             <td colspan="5" class="py-2 px-3 md:px-6 ">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
