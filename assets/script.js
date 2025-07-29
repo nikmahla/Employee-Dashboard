@@ -38,9 +38,7 @@ function createEmployeeRows(data) {
 
     let tableContent = data.map((employee, index) => `
         <tr class="border-b border-gray-200 hover:bg-gray-50 transition duration-300" data-index="${employee.id}">
-            // <td class="py-2 px-3 md:px-6 text-left">
-            //     <img src="${employee.avatar || 'https://via.placeholder.com/40'}" alt="${employee.fullName || 'Employee'}" class="w-10 h-10 rounded-full object-cover">
-            // </td>
+           
               <td class="py-2 px-3 md:px-6 text-left">
                 <img src="${employee.avatar || 'https://randomuser.me/api/portraits/women/44.jpg'}"
                      alt="${employee.fullName || 'Employee'}"
